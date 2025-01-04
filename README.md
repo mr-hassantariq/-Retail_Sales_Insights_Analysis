@@ -1,2 +1,4 @@
 # -Retail_Sales_Insights_Analysis
-Analysis of sales, customers, and products data for a fictional retail company.
+We will analyze sales, customer, and product data for a fictional retail company. We will
+use advanced SQL techniques to uncover insights such as sales trends, customer
+segmentation, product profitability, and inventory management efficiency
